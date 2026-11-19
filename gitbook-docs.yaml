@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: test-doc
+  structure:
+    - type: space
+      key: space-test-doc
+      title: test-doc
+      path: test-doc
+      default: true
+      content:
+        directory: ./
